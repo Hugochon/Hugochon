@@ -1,8 +1,8 @@
-### Bonjour👋 My name is Hugo Schneegans.
+### Hi, I'm Hugo Schneegans 👋
 
 <br> 
 
-- 🙋 I’m interested in Front&Back development (JS, React, HTML, CSS, Solidity, Python, C#, SQL, Bash, Rust) and mostly for FinTech and Blockchain applications.
+- 🙋 I’m interested in learning coding languages (JS, React, HTML, CSS, Solidity, Python, C#, SQL, Bash, Rust) and apply those skills for FinTech and Blockchain applications.
 
 - 🌱 I’m currently in Master 1 at [ESILV, Paris la Défense](https://www.esilv.fr/). I have courses like advanced Web development, Decentralized finance or even cryptography.
 
