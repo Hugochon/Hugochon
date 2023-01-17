@@ -1,6 +1,6 @@
 ### Bonjour👋 My name is Hugo Schneegans.
 
-<br> <br>
+<br> 
 
 - 🙋 I’m interested in Front&Back development (JS, React, HTML, CSS, Solidity, Python, C#, SQL, Bash, Rust) and mostly for FinTech and Blockchain applications.
 
@@ -8,15 +8,14 @@
 
 - ⚡ Chess and useful NFT enjoyer.
 
-<br> <br>
+<br> 
 
 Don't hesitate to contact me for any questions or informations, I like to discuss with people.
 
-- 📫 My mail : hugo.schneegans@gmail.com
+📫 My mail : hugo.schneegans@gmail.com
 
-- ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) : https://www.linkedin.com/in/hugo-schneegans/
+![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/hugo-schneegans/
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 <!--
 **Hugochon/Hugochon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
