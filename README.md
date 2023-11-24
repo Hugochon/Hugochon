@@ -2,7 +2,7 @@
 
 <br> 
 
-- 🙋 I’m interested in learning coding languages (JS, NextJS, React, HTML, CSS, Solidity, Python, C#, SQL, Bash, Rust) and apply those skills for FinTech and Blockchain applications.
+- 🙋 I’m interested in learning coding languages (Javascript, Typescript, NextJS, React, Tailwind, Solidity, Python, C#, SQL, Bash, Rust) and apply those skills for FinTech and Blockchain applications.
 
 - 🌱 I’m currently in Master 2 at [ESILV, Paris la Défense](https://www.esilv.fr/). I have courses like advanced Web development, Decentralized finance or even cryptography.
 
